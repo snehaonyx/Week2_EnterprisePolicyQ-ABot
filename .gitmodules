@@ -1,0 +1,4 @@
+[submodule "vendor/agent-skills"]
+	path = vendor/agent-skills
+	url = https://github.com/Rohit15190/agent-skills.git
+	branch = main
